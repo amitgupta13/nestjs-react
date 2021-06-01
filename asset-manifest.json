@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://amitgupta13.github.io/nestjs-react/static/css/main.492f871e.chunk.css",
+    "main.js": "https://amitgupta13.github.io/nestjs-react/static/js/main.05fddda4.chunk.js",
+    "main.js.map": "https://amitgupta13.github.io/nestjs-react/static/js/main.05fddda4.chunk.js.map",
+    "runtime~main.js": "https://amitgupta13.github.io/nestjs-react/static/js/runtime~main.575bb1d2.js",
+    "runtime~main.js.map": "https://amitgupta13.github.io/nestjs-react/static/js/runtime~main.575bb1d2.js.map",
+    "static/js/2.74bcbb58.chunk.js": "https://amitgupta13.github.io/nestjs-react/static/js/2.74bcbb58.chunk.js",
+    "static/js/2.74bcbb58.chunk.js.map": "https://amitgupta13.github.io/nestjs-react/static/js/2.74bcbb58.chunk.js.map",
+    "index.html": "https://amitgupta13.github.io/nestjs-react/index.html",
+    "precache-manifest.4e0659f754a081a6b0301cd567ef1067.js": "https://amitgupta13.github.io/nestjs-react/precache-manifest.4e0659f754a081a6b0301cd567ef1067.js",
+    "service-worker.js": "https://amitgupta13.github.io/nestjs-react/service-worker.js",
+    "static/css/main.492f871e.chunk.css.map": "https://amitgupta13.github.io/nestjs-react/static/css/main.492f871e.chunk.css.map"
+  }
+}
